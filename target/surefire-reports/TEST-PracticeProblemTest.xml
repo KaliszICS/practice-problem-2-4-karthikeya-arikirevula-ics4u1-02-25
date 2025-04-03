@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="PracticeProblemTest" time="0.072" tests="8" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="PracticeProblemTest" time="0.052" tests="8" errors="0" skipped="0" failures="0">
   <properties>
     <property name="awt.toolkit" value="sun.awt.X11.XToolkit"/>
     <property name="java.specification.version" value="11"/>
@@ -14,7 +14,7 @@
     <property name="os.name" value="Linux"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="sun.boot.library.path" value="/opt/java/11.0.14/lib"/>
-    <property name="sun.java.command" value="/workspaces/practice-problem-2-4-karthikeya-arikirevula-ics4u1-02-25/target/surefire/surefirebooter7484264840588992034.jar /workspaces/practice-problem-2-4-karthikeya-arikirevula-ics4u1-02-25/target/surefire 2025-04-03T03-08-59_491-jvmRun1 surefire7179868079021179862tmp surefire_06835616680057505924tmp"/>
+    <property name="sun.java.command" value="/workspaces/practice-problem-2-4-karthikeya-arikirevula-ics4u1-02-25/target/surefire/surefirebooter10447827404143923086.jar /workspaces/practice-problem-2-4-karthikeya-arikirevula-ics4u1-02-25/target/surefire 2025-04-03T14-14-22_893-jvmRun1 surefire4891619000788295498tmp surefire_09229808180531300917tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="/workspaces/practice-problem-2-4-karthikeya-arikirevula-ics4u1-02-25/target/test-classes:/workspaces/practice-problem-2-4-karthikeya-arikirevula-ics4u1-02-25/target/classes:/home/codespace/.m2/repository/org/junit/jupiter/junit-jupiter/5.6.2/junit-jupiter-5.6.2.jar:/home/codespace/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.6.2/junit-jupiter-api-5.6.2.jar:/home/codespace/.m2/repository/org/apiguardian/apiguardian-api/1.1.0/apiguardian-api-1.1.0.jar:/home/codespace/.m2/repository/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.jar:/home/codespace/.m2/repository/org/junit/platform/junit-platform-commons/1.6.2/junit-platform-commons-1.6.2.jar:/home/codespace/.m2/repository/org/junit/jupiter/junit-jupiter-params/5.6.2/junit-jupiter-params-5.6.2.jar:/home/codespace/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.6.2/junit-jupiter-engine-5.6.2.jar:/home/codespace/.m2/repository/org/junit/platform/junit-platform-engine/1.6.2/junit-platform-engine-1.6.2.jar:"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -30,7 +30,7 @@
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.awt.graphicsenv" value="sun.awt.X11GraphicsEnvironment"/>
-    <property name="surefire.real.class.path" value="/workspaces/practice-problem-2-4-karthikeya-arikirevula-ics4u1-02-25/target/surefire/surefirebooter7484264840588992034.jar"/>
+    <property name="surefire.real.class.path" value="/workspaces/practice-problem-2-4-karthikeya-arikirevula-ics4u1-02-25/target/surefire/surefirebooter10447827404143923086.jar"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="11.0.14.1+1-LTS"/>
     <property name="user.name" value="codespace"/>
@@ -56,12 +56,12 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="55.0"/>
   </properties>
-  <testcase name="selectionSortNameTest1" classname="PracticeProblemTest" time="0.028"/>
-  <testcase name="selectionSortNameTest3" classname="PracticeProblemTest" time="0.004"/>
+  <testcase name="selectionSortNameTest1" classname="PracticeProblemTest" time="0.024"/>
+  <testcase name="selectionSortNameTest3" classname="PracticeProblemTest" time="0.001"/>
   <testcase name="selectionSortNameTest4" classname="PracticeProblemTest" time="0.003"/>
-  <testcase name="selectionSortAgesTest1" classname="PracticeProblemTest" time="0.001"/>
-  <testcase name="selectionSortAgesTest2" classname="PracticeProblemTest" time="0"/>
+  <testcase name="selectionSortAgesTest1" classname="PracticeProblemTest" time="0"/>
+  <testcase name="selectionSortAgesTest2" classname="PracticeProblemTest" time="0.001"/>
   <testcase name="selectionSortAgesTest4" classname="PracticeProblemTest" time="0.003"/>
-  <testcase name="selectionSortNamesTest2" classname="PracticeProblemTest" time="0.003"/>
+  <testcase name="selectionSortNamesTest2" classname="PracticeProblemTest" time="0"/>
   <testcase name="selectionSortAgeTest3" classname="PracticeProblemTest" time="0.001"/>
 </testsuite>
